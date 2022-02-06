@@ -1,6 +1,8 @@
 # Labelize
 
--Often you set basic numbered labels in comments. But with accumulation, and back revisions, you INSERT new     numbered labels between 2 numbered labels. And if they were 2 consecutive integers, you come to insert floats, by dot introduction, longer and longer, but it is too awful! So you want to move them back to integers for instance, respectul of our float hierarchy. Labelize is there to manage these numbered labels. 
+-Often you set basic numbered labels in comments. But with accumulation, and back revisions, you INSERT new numbered labels between 2 numbered labels. And if they were 2 consecutive integers, you come to insert floats, by dot introduction, longer and longer, but it is too awful! 
+
+So you want to move them back to integers for instance #6 , respectul of your float hierarchy order. Labelize is there to manage these numbered labels. 
 
 -Ultimately, numbers could be as increasing as possible from top to bottom of the text, 
 
@@ -10,6 +12,7 @@
 
 -Even function patterns #5 : if 15 methods in a file 01 123 to 15 123.
 
+-iso scattered #7
 
 CP Constraint programming Choco
 
