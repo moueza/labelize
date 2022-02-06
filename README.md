@@ -12,9 +12,11 @@ So you want to move them back to integers for instance #6 , respectul of your fl
 
 -Even function patterns #5 : if 15 methods in a file 01 123 to 15 123.
 
--iso scattered #7
+-iso scattered #7 : lbl1 lbl2 lbl9 -> 1 5 9 (lbl1 lbl5 lbl9)
 
-CP Constraint programming Choco
+-percent normalized in 0-100 #8 : lbl5 lbl203 -> max=203 -> /(203/100) -> lbl5/2.03 lbl100
+
+CP Constraint programming + Cop,( Choco )
 
 Eclipse plugin.
 
