@@ -16,6 +16,8 @@ So you want to move them back to integers for instance #6 , respectul of your fl
 
 -percent normalized in 0-100 #8 : lbl5 lbl203 -> max=203 -> /(203/100) -> lbl5/2.03 lbl100
 
+-empty label ... to be completed : lbl comment #10
+
 CP Constraint programming + Cop,( Choco )
 
 Eclipse plugin.
