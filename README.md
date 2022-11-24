@@ -6,7 +6,7 @@ So you want to move them back to integers for instance #6 , respectul of your fl
 
 -Ultimately, numbers could be as increasing as possible from top to bottom of the text, 
 
--and multi files sensitive #3 . 
+-and multi files sensitive see #3 . 
 
 -Even, file clustered #4 : if wanted, least sensitive figures can be linked to files. E.g. if 15 files present, in a.txt lbl123->lbl01 123. 
 
